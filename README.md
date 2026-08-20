@@ -7,7 +7,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Divya Drishti | ज्योतिषीय परामर्श</title>
+<title> Divya Drishti | ज्योतिषीय परामर्श</title>
 
 <style>
 
@@ -203,8 +203,6 @@ footer {
 
 
 <!-- HOME -->
-
-<img src="images/logo.png" alt="Logo">
 
 <section class="hero">
 
