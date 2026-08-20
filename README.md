@@ -204,6 +204,8 @@ footer {
 
 <!-- HOME -->
 
+<img src="images/logo.png" alt="Logo">
+
 <section class="hero">
 
     <h2>
